@@ -1,0 +1,32 @@
+.ktr-dwnl-btn-icon{
+	display:block;
+	visibility:hidden;
+	margin:20px auto;
+	border:1px solid; 
+	transition:.3s ease-in-out;
+	text-decoration:none;
+	max-width:50px;
+	text-align:center;
+	margin-top: -50px !important;
+}
+.ktr-dwnl-btn-icon:hover{
+	transition:.3s ease-in-out;
+	text-decoration:none;
+}
+	.site a:focus:not(.wp-block-button__link):not(.wp-block-file__button){
+		color:black !important;
+}
+	i.fa.fa-download.ktr-dnload-icon{
+		background: #000000a6;
+		padding: 10px 14px;
+		border: 1px solid white;
+		border-radius: 5px;
+		color:white;
+		transition:.3s ease-in-out;
+}
+	i.fa.fa-download.ktr-dnload-icon:hover{
+		color:black;
+		background:#ffffffb3;
+		border:1px solid;
+		transition:.3s ease-in-out;
+}
